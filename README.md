@@ -2,6 +2,8 @@
 
 All credit to the original developer - see itang/lein-checkall. Unmaintained for 11 years and no longer functional, so just bumping deps and crossing fingers.
 
+---
+
 A Leiningen plugin to do many wonderful things.
 
 "lein check && lein kibit && lein eastwood && lein bikeshed"
